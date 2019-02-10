@@ -1,0 +1,11 @@
+C:\DeviZ\Dev\MySchool\GitHub\ExploringCore_Threading\ExploringCore_Threading\bin\Debug\netcoreapp2.1\ExploringCore_Threading.deps.json
+C:\DeviZ\Dev\MySchool\GitHub\ExploringCore_Threading\ExploringCore_Threading\bin\Debug\netcoreapp2.1\ExploringCore_Threading.runtimeconfig.json
+C:\DeviZ\Dev\MySchool\GitHub\ExploringCore_Threading\ExploringCore_Threading\bin\Debug\netcoreapp2.1\ExploringCore_Threading.runtimeconfig.dev.json
+C:\DeviZ\Dev\MySchool\GitHub\ExploringCore_Threading\ExploringCore_Threading\bin\Debug\netcoreapp2.1\ExploringCore_Threading.dll
+C:\DeviZ\Dev\MySchool\GitHub\ExploringCore_Threading\ExploringCore_Threading\bin\Debug\netcoreapp2.1\ExploringCore_Threading.pdb
+C:\DeviZ\Dev\MySchool\GitHub\ExploringCore_Threading\ExploringCore_Threading\obj\Debug\netcoreapp2.1\ExploringCore_Threading.csproj.CoreCompileInputs.cache
+C:\DeviZ\Dev\MySchool\GitHub\ExploringCore_Threading\ExploringCore_Threading\obj\Debug\netcoreapp2.1\ExploringCore_Threading.AssemblyInfoInputs.cache
+C:\DeviZ\Dev\MySchool\GitHub\ExploringCore_Threading\ExploringCore_Threading\obj\Debug\netcoreapp2.1\ExploringCore_Threading.AssemblyInfo.cs
+C:\DeviZ\Dev\MySchool\GitHub\ExploringCore_Threading\ExploringCore_Threading\obj\Debug\netcoreapp2.1\ExploringCore_Threading.dll
+C:\DeviZ\Dev\MySchool\GitHub\ExploringCore_Threading\ExploringCore_Threading\obj\Debug\netcoreapp2.1\ExploringCore_Threading.pdb
+C:\DeviZ\Dev\MySchool\GitHub\ExploringCore_Threading\ExploringCore_Threading\obj\Debug\netcoreapp2.1\ExploringCore_Threading.csprojAssemblyReference.cache
